@@ -48,3 +48,39 @@ The goal is to generate insights on customer behavior, premium contributions, an
 ---
 
 ## Project Structure
+Insurance-Customer-Analytics/
+│
+├── insurance project.pbix
+├── README.md
+
+---
+
+## How to Use
+1. Download the `.pbix` file  
+2. Open it in Power BI Desktop  
+3. Explore the dashboard  
+
+---
+
+## Key Learnings
+- End-to-end data workflow  
+- Data cleaning and transformation  
+- Data modeling (star schema)  
+- Dashboard building  
+
+---
+
+## Future Improvements
+- Real-time data integration  
+- Predictive analytics  
+- Advanced DAX measures  
+
+---
+
+## Contributing
+Feel free to fork and improve the project.
+
+---
+
+## Contact
+Open to feedback and collaboration.
